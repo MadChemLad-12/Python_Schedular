@@ -1,0 +1,22 @@
+{
+  "email": {
+    "enabled": false,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "your_email@gmail.com",
+    "sender_password": "your_app_password_here",
+    "recipient_email": "your_email@gmail.com"
+  },
+  "slack": {
+    "enabled": false,
+    "webhook_url": "https://hooks.slack.com/services/YOUR/WEBHOOK/URL"
+  },
+  "teams": {
+    "enabled": false,
+    "webhook_url": "https://outlook.office.com/webhook/YOUR_WEBHOOK_URL"
+  },
+  "linework": {
+    "enabled": false,
+    "webhook_url": "https://works-webhook.linecorp.com/YOUR_WEBHOOK_URL"
+  }
+}

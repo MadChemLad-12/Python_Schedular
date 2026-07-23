@@ -1,0 +1,5 @@
+job_name,job_file,num_cores,wall_time_hours
+water_opt,/path/to/water_opt.inp,4,2
+graphene_scf,/path/to/graphene.inp,8,4
+benzene_md,/path/to/benzene_md.inp,6,12
+protein_long,/path/to/protein_simulation.inp,16,24
